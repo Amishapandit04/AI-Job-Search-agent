@@ -17,7 +17,7 @@ RSS Feeds → Duplicate Check → Fetch Full JD → AI Extraction → AI Scoring
      ↑                                                                              ↓
 Runs every 3 hours automatically                              Clean prioritised job board
 
-<img width="200" height="400" alt="AI-powered job matching flowchart" src="https://github.com/user-attachments/assets/ddac47fb-4bd3-4a55-8104-e22b3a207546" />
+<img width="300" height="450" alt="AI-powered job matching flowchart" src="https://github.com/user-attachments/assets/ddac47fb-4bd3-4a55-8104-e22b3a207546" />
 
 # Pipeline Flow
 # Steps       # Tool                 # Action
