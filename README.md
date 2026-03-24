@@ -73,10 +73,7 @@ Total with Groq                  0 INR/month
 
 ## 📹 Demo
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/t1OLEmLM-IA)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
 
-<img width="300" height="400" alt="Screenshot 2026-03-22 at 5 54 24 PM" src="https://github.com/user-attachments/assets/9dcaa9c9-8d21-4541-828c-2444db3a418a" />
-
-https://github.com/user-attachments/assets/f928fda0-5ed0-4015-9f0a-d533bf8ac1d4
-> See the full pipeline running — RSS ingestion → AI scoring → Airtable record creation
-
+![2](https://github.com/user-attachments/assets/37609cc4-cb2e-43c3-b515-026a16f0affd)![3](https://github.com/user-attachments/assets/4c6526d8-ca27-46a8-93b5-16137a0714f3)
+![1](https://github.com/user-attachments/assets/6ca4a280-e579-4d46-8a6b-06402982f2e0)
