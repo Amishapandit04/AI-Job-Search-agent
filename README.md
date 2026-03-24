@@ -76,3 +76,4 @@ Total with Groq                  0 INR/month
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/t1OLEmLM-IA)
 
 > See the full pipeline running — RSS ingestion → AI scoring → Airtable record creation
+
