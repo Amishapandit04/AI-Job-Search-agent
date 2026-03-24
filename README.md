@@ -1,3 +1,9 @@
+<img width="1470" height="956" alt="Screenshot 2026-03-22 at 5 54 24 PM" src="https://github.com/user-attachments/assets/96cf65cf-f588-437e-87ef-f0e1becf8774" />
+<img width="1470" height="956" alt="Screenshot 2026-03-22 at 5 54 24 PM" src="https://github.com/user-attachments/assets/9dcaa9c9-8d21-4541-828c-2444db3a418a" />
+
+
+https://github.com/user-attachments/assets/f928fda0-5ed0-4015-9f0a-d533bf8ac1d4
+
 # AI-Job-Search-agent
 An AI powered job search agent. Light of hope in dark.. makes you feel like maybe now's my chance, So if you feel like AI is taking your job, just uno reverse it and find a job using AI.
 
