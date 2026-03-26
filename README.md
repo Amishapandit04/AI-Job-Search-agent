@@ -75,5 +75,8 @@ Total with Groq                  0 INR/month
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
 
+https://youtu.be/t1OLEmLM-IA?si=4GJjEe-JT_SyxOoK
+
+
 ![2](https://github.com/user-attachments/assets/37609cc4-cb2e-43c3-b515-026a16f0affd)![3](https://github.com/user-attachments/assets/4c6526d8-ca27-46a8-93b5-16137a0714f3)
 ![1](https://github.com/user-attachments/assets/6ca4a280-e579-4d46-8a6b-06402982f2e0)
